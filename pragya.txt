@@ -1,0 +1,6 @@
+#include<stdio.h>
+vod main()
+{
+	printf("hello World !!");
+	getch();
+}
