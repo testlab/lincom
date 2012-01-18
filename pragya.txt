@@ -3,6 +3,7 @@ vod main()
 {
 	printf("hello World !!");
 	printf("Well done  !!!!!");
+        printf("change by clone");
 	getch();
 }
 hiiii
