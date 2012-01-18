@@ -4,6 +4,9 @@ vod main()
 	printf("hello World !!");
 	printf("Well done  !!!!!");
         printf("change by clone");
+	int a=5, b=6;
+	int c=a+b;
+	printf("Addition of a and b ",c);
 	getch();
 }
 hiiii
